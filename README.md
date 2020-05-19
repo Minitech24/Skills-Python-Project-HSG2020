@@ -1,7 +1,7 @@
 # Skills_python_project
-University of St. Gallen
-Skills: Programming with Advanced Computer Languages 
-Spring 2020
+University of St. Gallen\\
+Skills: Programming with Advanced Computer Languages \\
+Spring 2020\\
 
 For our final project in the course "Skills: Programming with Advanced Computer Languages " my group and I create an automated data analytics programm with which a user can interact with. 
 The program is written in python and features the main tools for data pre-processing and visualization. 
