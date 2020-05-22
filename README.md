@@ -9,7 +9,7 @@ For our final project in the course "Skills: Programming with Advanced Computer 
 The program is written in python and features the main tools for data pre-processing and visualization.  
 The program should be executed in a Python IDE so the user can interact with it via the respective IDE's console.  
 The only requirement is the uploaded file having to be in csv format.  
-We have uploaded three files with respective manuals for users to test the program.  
+We have uploaded three files with respective manuals with which the users can test the program.  
 
 
 ## Contents  
