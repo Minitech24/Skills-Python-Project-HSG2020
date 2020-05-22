@@ -5,11 +5,12 @@ Spring 2020
 
 Kevin Hardegger, Alessio Palermo, Quan An Clement Ng, Jonas Söderlund, Bilson Jun Wei Tan  
 
-For our final project in the course "Skills: Programming with Advanced Computer Languages " our group creates an automated data analytics programm with which a user can interact with.  
-The program is written in python and features the main tools for data pre-processing and visualization.  
-The program should be executed in a Python IDE so the user can interact with it via the respective IDE's console.  
-The only requirement is the uploaded file having to be in csv format.  
-We have uploaded three files with respective manuals with which the users can test the program.  
+For our final project in the course "Skills: Programming with Advanced Computer Languages " our group created an automated data analytics programm with which a user can interact with.  
+
+The program is written in python and features the main tools for data pre-processing and visualization. The program is best executed in Jupyter Notebook. The only requirement is the uploaded file having to be in csv format.  
+
+We have uploaded three files with respective manuals with which any user can easily test the program.
+We highly recommend the Starcraft2 and Singapore Airbnb files, as these are the most interesting!  
 
 
 ## Contents  
