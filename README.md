@@ -30,12 +30,13 @@ The only requirement is the uploaded file having to be in csv format.
  3.1.3 Ask for repeating single analyis  
 ### 3.2 Numerical Data analysis  
  3.2.1 Distribution grid plot
- 3.2.2 Give option for indivudal analysis  
- 3.2.3 Descriptive summary  
- 3.2.4 Inspecting Skew & Kurtosis  
- 3.2.5 Count outliers  
- 3.2.6 Plotting boxplot  
- 3.2.7 Ask for repeating single analysis  
+ 3.2.2 Descriptive summary  
+ 3.2.3 Inspecting Skew & Kurtosis  
+ 3.2.4 Count outliers  
+ 3.2.5 Plotting boxplot  
+ 3.2.6 Ask for repeating single analysis  
+ 3.2.7 Give option for indivudal analysis 
+       (and execute functions 3.2.2-3.2.6)
  3.2.8 Correlation Matrix  
  
  
