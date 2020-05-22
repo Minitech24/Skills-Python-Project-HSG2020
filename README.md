@@ -7,3 +7,33 @@ For our final project in the course "Skills: Programming with Advanced Computer 
 The program is written in python and features the main tools for data pre-processing and visualization.  
 The program should be executed in a Python IDE so the user can interact with it via the respective IDE's console.  
 The only requirement is the uploaded file having to be in csv format.  
+
+## Contents  
+### 1. Import of libraries and the data set   
+### 2. Cleaning Data Set  
+ 2.2 Removing columns  
+ 2.3 Get further details of the data types   
+ 2.4 Transforming data types  
+ 2.5 Count number of null values  
+ 2.6 Remove NA values  
+ 2.7 Renaming columns    
+ 2.8 Check for duplicates   
+ 2.9 Possibility for repeating functions  
+### 3. Univariate Analysis  
+ 3.0.1 Split numerical and categorical data into two lists   
+### 3.1 Categorical Data analysis   
+ 3.1.1 Grid plotting categorical data  
+ 3.1.2 Value_counts  
+ 3.1.3 Ask for repeating single analyis  
+### 3.2 Numerical Data analysis  
+ 3.2.1 distribution grid plot of all numerical variables   
+ 3.2.2 Give option for indivudal analysis  
+ 3.2.3 Descriptive summary  
+ 3.2.4 Inspecting Skew & Kurtosis  
+ 3.2.5 Count outliers  
+ 3.2.6 Plotting boxplot  
+ 3.2.7 Ask for repeating single analyis 
+ 3.2.8 Correlation Matrix  
+ 
+ 
+ 
