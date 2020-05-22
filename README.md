@@ -32,7 +32,7 @@ The only requirement is the uploaded file having to be in csv format.
  3.2.4 Inspecting Skew & Kurtosis  
  3.2.5 Count outliers  
  3.2.6 Plotting boxplot  
- 3.2.7 Ask for repeating single analyis 
+ 3.2.7 Ask for repeating single analysis  
  3.2.8 Correlation Matrix  
  
  
