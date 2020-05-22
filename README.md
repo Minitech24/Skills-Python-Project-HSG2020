@@ -23,10 +23,10 @@ The only requirement is the uploaded file having to be in csv format.
  3.0.1 Split numerical and categorical data into two lists   
 ### 3.1 Categorical Data analysis   
  3.1.1 Grid plotting categorical data  
- 3.1.2 Value_counts  
+ 3.1.2 Value counts  
  3.1.3 Ask for repeating single analyis  
 ### 3.2 Numerical Data analysis  
- 3.2.1 distribution grid plot of all numerical variables   
+ 3.2.1 Distribution grid plot
  3.2.2 Give option for indivudal analysis  
  3.2.3 Descriptive summary  
  3.2.4 Inspecting Skew & Kurtosis  
