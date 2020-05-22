@@ -35,8 +35,8 @@ The only requirement is the uploaded file having to be in csv format.
  3.2.4 Count outliers  
  3.2.5 Plotting boxplot  
  3.2.6 Ask for repeating single analysis  
- 3.2.7 Give option for indivudal analysis 
-       (and execute functions 3.2.2-3.2.6)
+ 3.2.7 Give option for indivudal analysis  
+       (and execute functions 3.2.2-3.2.6)  
  3.2.8 Correlation Matrix  
  
  
