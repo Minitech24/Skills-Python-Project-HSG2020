@@ -2,14 +2,13 @@
 University of St. Gallen  
 Skills: Programming with Advanced Computer Languages  
 Spring 2020  
+Kevin Hardegger
 
-Kevin Hardegger, Alessio Palermo, Quan An Clement Ng, Jonas Söderlund, Bilson Jun Wei Tan  
-
-For our final project in the course "Skills: Programming with Advanced Computer Languages " our group created an automated data analytics programm with which a user can interact with.  
+For my final project in the course "Skills: Programming with Advanced Computer Languages " I created an automated data analytics programm with which a user can interact with.  
 The program is written in python and features the main tools for data pre-processing and visualization. The program is best executed in Jupyter Notebook. The only requirement is the uploaded file having to be in csv format.  
 
-We have uploaded three files with respective manuals with which any user can easily test the program.
-We highly recommend the Starcraft2 and Singapore Airbnb files, as these are the most interesting!  
+I have uploaded three files with respective manuals with which any user can easily test the program.
+I highly recommend the Starcraft2 and Singapore Airbnb files, as these are the most interesting.
 
 
 ## Contents  
